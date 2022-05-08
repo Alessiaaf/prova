@@ -12,17 +12,17 @@ start:
 	
 	move #5, d1
 	
-	for_begin:
+	for_ciao:
 	tst  d1
 	ble  for_end
 	add #1, d0
 	sub d2, d1
 	add #2, d2
 	
-	bra for_begin
+	bra for_ciao
 	
 		
-	for_end:
+	for_ende:
 	
 
     end 
