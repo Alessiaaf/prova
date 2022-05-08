@@ -22,7 +22,7 @@ start:
 	bra for_che palle
 	
 		
-	for_end:
+	for_ende:
 	
 
     end 
